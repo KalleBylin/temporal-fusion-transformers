@@ -1,6 +1,7 @@
 # Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting
 
-### Higher School of Economics Master of Data Science ML Project
+### Higher School of Economics
+### Master of Data Science ML Project
 
 
 ## Papers & References
@@ -13,6 +14,10 @@
 
 - S. Li, et al., Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting, in: NeurIPS, 2019.
 
+
+## Proposal
+
+[Project proposal PDF](https://github.com/KalleBylin/temporal-fusion-transformers/blob/main/Proposal.pdf)
 
 ## Description
 
