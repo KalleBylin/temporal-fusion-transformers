@@ -19,6 +19,8 @@
 
 [Project proposal PDF](https://github.com/KalleBylin/temporal-fusion-transformers/blob/main/Proposal.pdf)
 
+[Project Report PDF](https://github.com/KalleBylin/temporal-fusion-transformers/blob/main/ML_Project_Report.pdf)
+
 ## Description
 
 The focus of this project is to better understand how we can deal with high-dimensional time series with multiple inputs, missing values and irregular timestamps. In this situation, the performance of the classical approaches is not satisfying, and naïve applications of deep learning also fail. Even the deep learning models that have shown promising results tend to "black boxes" with little insight into how to interpret the results.
